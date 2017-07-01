@@ -1,0 +1,10 @@
+﻿namespace ExemploASPNETCore
+{
+    public class Estado
+    {
+        public string SiglaEstado { get; set; }
+        public string NomeEstado { get; set; }
+        public string NomeCapital { get; set; }
+        public string NomeRegiao { get; set; }
+    }
+}
